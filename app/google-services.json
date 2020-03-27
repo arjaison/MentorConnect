@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20631797620",
+    "firebase_url": "https://chatapp-41e66.firebaseio.com",
+    "project_id": "chatapp-41e66",
+    "storage_bucket": "chatapp-41e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20631797620:android:807af410132a4a1c7eb621",
+        "android_client_info": {
+          "package_name": "com.ecorp.MentorConnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20631797620-uk7p2g75ublea48fcrh5e5batlpimbvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVYnvEef5iCbY_JBdrIt_V2FkAKgo4-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20631797620-uk7p2g75ublea48fcrh5e5batlpimbvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_mclogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\mclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_lock.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_send.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_applogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\applogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_applogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\applogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_mclogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\mclogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_applogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_forgot_password.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_picture.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_search_bg.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_mclogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\mclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_right.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\background_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_option.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_arrow_img.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_arrow_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_applogo.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\applogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_users.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\fragment_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_mclogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\mclogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_left.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\background_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_chat_item_right.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_empty_state.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\empty_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_profile_img.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\profile_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_applogo_round.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\applogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_mclogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\mclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_applogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_mclogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\mclogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_applogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\applogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_applogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\applogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_es_image.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\es_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_faculty.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\faculty.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_mclogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\mclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_mclogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\mclogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_applogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\applogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_rounded_dialog.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-mdpi\\rounded_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_hacker.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\hacker.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_login_vector.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_login_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_signup_vector.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_signup_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_cool_background.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_cool_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_vector_chatapp.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_vector_chatapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register_mentee.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_register_mentee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_mclogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\mclogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_chat_item_left.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_mm1.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\mm1.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_chevron_right.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_chevron_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_mclogo_round.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\mclogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_progressdialog.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_es_image.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\es_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_mclogo_round.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\mclogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_mclogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-hdpi\\mclogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_login.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_logomc.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\logomc.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_picture.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_applogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_arrow_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_arrow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_forgot_password.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_forgot_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_search_bg.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\search_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_mclogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\mclogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_bar_layout.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\bar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_view_profile.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_mclogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\mclogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_applogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-mdpi\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_logo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_login.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_send.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_applogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxxhdpi\\applogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_mclogo.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xxhdpi\\mclogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_lock.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_login_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_login_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_mclogo.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\mclogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_cool_background.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_cool_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_mclogo_foreground.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-xhdpi\\mclogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_vector_chatapp.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_vector_chatapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_profile_img.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\profile_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_signup_vector.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_signup_vector.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_plus.png.flat",
+        "source": "C:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_plus.png"
+    }
+]

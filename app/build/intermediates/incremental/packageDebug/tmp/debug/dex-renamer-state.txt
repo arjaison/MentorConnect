@@ -1,0 +1,4 @@
+#Mon Mar 23 16:18:08 IST 2020
+base.0=C\:\\Users\\Asus-2018\\Mentor Connect\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

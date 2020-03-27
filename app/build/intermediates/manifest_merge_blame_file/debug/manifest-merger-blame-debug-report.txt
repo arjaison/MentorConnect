@@ -1,0 +1,304 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ecorp.MentorConnect"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:57:5-81
+11-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:57:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:58:5-80
+12-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:58:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:60:5-67
+13-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:60:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+14-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+15-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+16-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:26:22-79
+18
+19    <application
+19-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:5:5-56:19
+20        android:allowBackup="true"
+20-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:6:9-35
+21        android:debuggable="true"
+22        android:icon="@mipmap/mclogo"
+22-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:7:9-38
+23        android:label="@string/app_name"
+23-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:8:9-41
+24        android:roundIcon="@mipmap/mclogo_round"
+24-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:9:9-49
+25        android:supportsRtl="true"
+25-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:10:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:11:9-40
+28        <activity android:name="com.ecorp.MentorConnect.ViewProfileActivity" />
+28-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:12:9-66
+28-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:12:19-54
+29        <activity android:name="com.ecorp.MentorConnect.OptionPage" />
+29-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:13:9-57
+29-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:13:19-45
+30        <activity android:name="com.ecorp.MentorConnect.RegisterActivity_Mentee" />
+30-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:14:9-70
+30-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:14:19-58
+31        <activity
+31-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:16:9-24:20
+32            android:name="com.ecorp.MentorConnect.StartActivity"
+32-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:17:13-42
+33            android:windowSoftInputMode="stateAlwaysHidden" >
+33-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:18:13-60
+34            <intent-filter>
+34-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:19:13-23:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:20:17-69
+35-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:20:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:22:17-77
+37-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:22:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:25:9-28:63
+41            android:name="com.ecorp.MentorConnect.RegisterActivity"
+41-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:26:13-45
+42            android:parentActivityName="com.ecorp.MentorConnect.StartActivity"
+42-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:27:13-56
+43            android:windowSoftInputMode="stateAlwaysHidden" />
+43-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:28:13-60
+44        <activity android:name="com.ecorp.MentorConnect.MainActivity" />
+44-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:29:9-50
+44-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:29:19-47
+45        <activity
+45-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:30:9-33:63
+46            android:name="com.ecorp.MentorConnect.LoginActivity"
+46-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:31:13-42
+47            android:parentActivityName="com.ecorp.MentorConnect.StartActivity"
+47-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:32:13-56
+48            android:windowSoftInputMode="stateAlwaysHidden" />
+48-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:33:13-60
+49        <activity android:name="com.ecorp.MentorConnect.MessageActivity" />
+49-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:34:9-53
+49-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:34:19-50
+50        <activity
+50-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:35:9-38:63
+51            android:name="com.ecorp.MentorConnect.ResetPasswordActivity"
+51-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:36:13-50
+52            android:parentActivityName="com.ecorp.MentorConnect.LoginActivity"
+52-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:37:13-56
+53            android:windowSoftInputMode="stateAlwaysHidden" />
+53-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:38:13-60
+54
+55        <service
+55-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:40:9-47:19
+56            android:name="com.ecorp.MentorConnect.Notifications.MyFirebaseIdService"
+56-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:41:13-62
+57            android:enabled="true"
+57-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:42:13-35
+58            android:exported="true" >
+58-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:43:13-36
+59            <intent-filter>
+59-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:44:13-46:29
+60                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+60-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:45:17-80
+60-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:45:25-77
+61            </intent-filter>
+62        </service>
+63        <service
+63-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:48:9-55:19
+64            android:name="com.ecorp.MentorConnect.Notifications.MyFirebaseMessaging"
+64-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:49:13-62
+65            android:enabled="true"
+65-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:50:13-35
+66            android:exported="true" >
+66-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:51:13-36
+67            <intent-filter>
+67-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:52:13-54:29
+68                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+68-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:53:17-78
+68-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:53:25-75
+69            </intent-filter>
+70        </service>
+71
+72        <activity
+72-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:23:9-29:75
+73            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+73-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:24:13-85
+74            android:excludeFromRecents="true"
+74-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:25:13-46
+75            android:exported="true"
+75-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:26:13-36
+76            android:launchMode="singleInstance"
+76-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:27:13-48
+77            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+77-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:28:13-102
+78            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+78-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:29:13-72
+79
+80        <service
+80-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:31:9-35:19
+81            android:name="com.google.firebase.components.ComponentDiscoveryService"
+81-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:31:18-89
+82            android:exported="false" >
+82-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:31:13-37
+83            <meta-data
+83-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:32:13-34:85
+84                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+84-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:33:17-109
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-auth:16.0.2] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\4d211e151bce9c84cc203e711276486e\firebase-auth-16.0.2\AndroidManifest.xml:34:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+87                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+87-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\c33d495d09432678ddd60658d1a69d69\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:32:13-34:85
+90                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+90-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:33:17-96
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:34:17-82
+92        </service>
+93        <!--
+94             FirebaseMessagingService performs security checks at runtime,
+95             no need for explicit permissions despite exported="true"
+96        -->
+97        <service
+97-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8c757461e032b59f985970953db82e2b\firebase-messaging-17.3.1\AndroidManifest.xml:28:9-34:19
+98            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+98-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8c757461e032b59f985970953db82e2b\firebase-messaging-17.3.1\AndroidManifest.xml:29:13-82
+99            android:exported="true" >
+99-->[com.google.firebase:firebase-messaging:17.3.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8c757461e032b59f985970953db82e2b\firebase-messaging-17.3.1\AndroidManifest.xml:30:13-36
+100            <intent-filter android:priority="-500" >
+100-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:52:13-54:29
+101                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+101-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:53:17-78
+101-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:53:25-75
+102            </intent-filter>
+103        </service>
+104
+105        <receiver
+105-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+106            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+106-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+107            android:enabled="true"
+107-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+108            android:exported="false" >
+108-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+109        </receiver>
+110        <receiver
+110-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+111            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+111-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+112            android:enabled="true"
+112-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+113            android:exported="true"
+113-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+114            android:permission="android.permission.INSTALL_PACKAGES" >
+114-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+115            <intent-filter>
+115-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+116                <action android:name="com.android.vending.INSTALL_REFERRER" />
+116-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+116-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+117            </intent-filter>
+118        </receiver>
+119
+120        <service
+120-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+121            android:name="com.google.android.gms.measurement.AppMeasurementService"
+121-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+122            android:enabled="true"
+122-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+123            android:exported="false" />
+123-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+124        <service
+124-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+125            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+125-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+126            android:enabled="true"
+126-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+127            android:exported="false"
+127-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+128            android:permission="android.permission.BIND_JOB_SERVICE" />
+128-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\2d45db7c99db79b5b2db68b013a180f0\firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+129
+130        <receiver
+130-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:37:9-44:20
+131            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+131-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:38:13-78
+132            android:exported="true"
+132-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:39:13-36
+133            android:permission="com.google.android.c2dm.permission.SEND" >
+133-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:40:13-73
+134            <intent-filter>
+134-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:41:13-43:29
+135                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+135-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:42:17-81
+135-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:42:25-78
+136            </intent-filter>
+137        </receiver>
+138        <!--
+139             FirebaseInstanceIdService performs security checks at runtime,
+140             no need for explicit permissions despite exported="true"
+141        -->
+142        <service
+142-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:50:9-56:19
+143            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+143-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:51:13-77
+144            android:exported="true" >
+144-->[com.google.firebase:firebase-iid:17.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\a69d518558294b95ebd0f43c83fda012\firebase-iid-17.0.1\AndroidManifest.xml:52:13-36
+145            <intent-filter android:priority="-500" >
+145-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:44:13-46:29
+146                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+146-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:45:17-80
+146-->C:\Users\Asus-2018\Mentor Connect\app\src\main\AndroidManifest.xml:45:25-77
+147            </intent-filter>
+148        </service>
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\66cb90bb85f66b30e25b70a80fddf120\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\66cb90bb85f66b30e25b70a80fddf120\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\66cb90bb85f66b30e25b70a80fddf120\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\66cb90bb85f66b30e25b70a80fddf120\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+154
+155        <provider
+155-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\bd922912ad38b7d15c74830e5f15c308\firebase-common-16.0.1\AndroidManifest.xml:10:9-14:39
+156            android:name="com.google.firebase.provider.FirebaseInitProvider"
+156-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\bd922912ad38b7d15c74830e5f15c308\firebase-common-16.0.1\AndroidManifest.xml:11:13-77
+157            android:authorities="com.ecorp.MentorConnect.firebaseinitprovider"
+157-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\bd922912ad38b7d15c74830e5f15c308\firebase-common-16.0.1\AndroidManifest.xml:12:13-72
+158            android:exported="false"
+158-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\bd922912ad38b7d15c74830e5f15c308\firebase-common-16.0.1\AndroidManifest.xml:13:13-37
+159            android:initOrder="100" />
+159-->[com.google.firebase:firebase-common:16.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\bd922912ad38b7d15c74830e5f15c308\firebase-common-16.0.1\AndroidManifest.xml:14:13-36
+160
+161        <meta-data
+161-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8f0b1a239c62474e5c90b9fab424c4c5\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+162            android:name="com.google.android.gms.version"
+162-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8f0b1a239c62474e5c90b9fab424c4c5\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+163            android:value="@integer/google_play_services_version" />
+163-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\Asus-2018\.gradle\caches\transforms-2\files-2.1\8f0b1a239c62474e5c90b9fab424c4c5\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+164    </application>
+165
+166</manifest>
