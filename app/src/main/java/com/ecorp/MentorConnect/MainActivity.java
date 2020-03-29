@@ -69,14 +69,14 @@ public class MainActivity extends AppCompatActivity implements OnItemClick {
         final TabLayout tabLayout = findViewById(R.id.tab_layout);
         final ViewPager viewPager = findViewById(R.id.view_pager);
 
-        profile_image.setOnClickListener(new View.OnClickListener() {
+      /*  profile_image.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 TabLayout.Tab tab = tabLayout.getTabAt(2);
                 tab.select();
 
             }
-        });
+        });*/
         username = findViewById(R.id.username);
         username.setTypeface(MR);
 

@@ -69,6 +69,7 @@ public class RegisterActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String txt_username = username.getText().toString();
+                txt_username="M."+txt_username;
                 String txt_email = email.getText().toString();
                 String txt_password = password.getText().toString();
                 String txt_accesscode=accesscode.getText().toString();
@@ -80,7 +81,7 @@ public class RegisterActivity extends AppCompatActivity {
                         Toast.makeText(RegisterActivity.this, "Password must be atleast 6 characters", Toast.LENGTH_SHORT).show();
                     }
 
-                    else if (!(txt_username.matches("[M/m][.][A-Za-z]+")))
+                    else if (!(txt_username.matches("[M][.][A-Za-z]+")))
                     {Toast.makeText(RegisterActivity.this, "Enter valid Username", Toast.LENGTH_SHORT).show();}
                     else {
                         if (txt_accesscode.matches("[A-Z][a-zA-Z]*[0-9]+")) {

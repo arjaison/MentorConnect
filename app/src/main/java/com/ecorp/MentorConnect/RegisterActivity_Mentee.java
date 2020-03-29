@@ -78,6 +78,7 @@ public class RegisterActivity_Mentee extends AppCompatActivity {
 
                 String txt_email = email.getText().toString();
                String txt_mentname=mentname.getText().toString();
+               txt_mentname="M."+txt_mentname;
                 String txt_password = password.getText().toString();
                 String txt_username = null;
 

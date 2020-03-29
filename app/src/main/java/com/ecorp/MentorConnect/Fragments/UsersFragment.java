@@ -206,7 +206,7 @@ public class UsersFragment extends Fragment {
                             User user = snapshot.getValue(User.class);
                             //Next 2 lines edited
                             String usr = user.getUsername();
-                            if (usr.matches("[M/m][.][A-Za-z]+")) {
+                            if (usr!=null && usr.matches("[M/m][.][A-Za-z]+")) {
                                 if (user != null && user.getId() != null && firebaseUser != null && !user.getId().equals(firebaseUser.getUid())) {
                                     mUsers.add(user);
                                    //Log.d("whoami", "Value" + mentorname);
