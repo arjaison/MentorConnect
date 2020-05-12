@@ -14,6 +14,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -39,6 +40,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import de.hdodenhof.circleimageview.CircleImageView;
+
+//import io.theysay.affectr.client.AffectR;
 
 public class MainActivity extends AppCompatActivity implements OnItemClick {
 
@@ -83,13 +86,23 @@ public class MainActivity extends AppCompatActivity implements OnItemClick {
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         reference = FirebaseDatabase.getInstance().getReference("Users").child(firebaseUser.getUid());
 
+        //AffectR.accountDetails.setUsername("MentorConnect");
+        //AffectR.accountDetails.setPassword("netflix123");
+
+        /*try{
+            String sentiment = AffectR.api.classifySentiment("...").getSentiment().getPolarity();
+            Log.d("sentimentsuccess",sentiment);
+        }catch (Exception e){
+            Log.d("sentimenterror", "Error in sentiment analysis");
+        }*/
+
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 User user = dataSnapshot.getValue(User.class);
                 username.setText(user.getUsername());
                if (user.getImageURL().equals("default")){
-                    profile_image.setImageResource(R.drawable.profile_img);
+                    profile_image.setImageResource(R.mipmap.colourlogo1);
                  }else {
                     //change this
                     Glide.with(getApplicationContext()).load(user.getImageURL()).into(profile_image);

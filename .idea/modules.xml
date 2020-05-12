@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Mentor Connect.iml" filepath="$PROJECT_DIR$/Mentor Connect.iml" group="Mentor Connect" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Mentor Connect/app" />
+      <module fileurl="file://$PROJECT_DIR$/MentorConnect-master.iml" filepath="$PROJECT_DIR$/MentorConnect-master.iml" group="MentorConnect-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MentorConnect-master/app" />
     </modules>
   </component>
 </project>

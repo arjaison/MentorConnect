@@ -3,12 +3,14 @@ package com.ecorp.MentorConnect;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Typeface;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ImageButton;
@@ -16,6 +18,15 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.ecorp.MentorConnect.Adapter.MessageAdapter;
+import com.ecorp.MentorConnect.Fragments.APIService;
+import com.ecorp.MentorConnect.Model.Chat;
+import com.ecorp.MentorConnect.Model.User;
+import com.ecorp.MentorConnect.Notifications.Client;
+import com.ecorp.MentorConnect.Notifications.Data;
+import com.ecorp.MentorConnect.Notifications.MyResponse;
+import com.ecorp.MentorConnect.Notifications.Sender;
+import com.ecorp.MentorConnect.Notifications.Token;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -24,24 +35,22 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
-import com.ecorp.MentorConnect.Adapter.MessageAdapter;
-import com.ecorp.MentorConnect.Fragments.APIService;
-import com.ecorp.MentorConnect.Model.Chat;
-import com.ecorp.MentorConnect.Model.User;
-import com.ecorp.MentorConnect.Notifications.Client;
-import com.ecorp.MentorConnect.Notifications.Data;
-import com.ecorp.MentorConnect.Notifications.MyResponse;
-import com.ecorp.MentorConnect.Notifications.Token;
-import com.ecorp.MentorConnect.Notifications.Sender;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+
 import de.hdodenhof.circleimageview.CircleImageView;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
+
+import com.paralleldots.paralleldots.App;
+import org.json.simple.JSONObject;
+import org.json.simple.JSONArray;
+import org.json.simple.parser.JSONParser;
+
 
 public class MessageActivity extends AppCompatActivity {
 
@@ -112,6 +121,8 @@ public class MessageActivity extends AppCompatActivity {
         userid = intent.getStringExtra("userid");
         fuser = FirebaseAuth.getInstance().getCurrentUser();
 
+
+
         btn_send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -164,6 +175,7 @@ public class MessageActivity extends AppCompatActivity {
                     if (chat.getReceiver().equals(fuser.getUid()) && chat.getSender().equals(userid)){
                         HashMap<String, Object> hashMap = new HashMap<>();
                         hashMap.put("isseen", true);
+                        Log.d("msg",chat.getMessage());
                         snapshot.getRef().updateChildren(hashMap);
                     }
                 }

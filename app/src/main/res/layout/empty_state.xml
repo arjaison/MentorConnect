@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout android:id="@+id/user_es"
     android:layout_width="match_parent"
-    android:background="@color/white"
+    android:background="@color/colorPrimary"
     android:layout_height="match_parent"
     android:visibility="visible"
     xmlns:android="http://schemas.android.com/apk/res/android">

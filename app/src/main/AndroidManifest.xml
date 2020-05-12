@@ -4,15 +4,14 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/mclogo"
+        android:icon="@mipmap/colourlogo1"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/mclogo_round"
+        android:roundIcon="@mipmap/colourlogo1"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ViewProfileActivity"></activity>
-        <activity android:name=".OptionPage"></activity>
-        <activity android:name=".RegisterActivity_Mentee"></activity>
 
+        <activity android:name=".ViewProfileActivity" />
+        <activity android:name=".OptionPage" />
         <activity
             android:name=".StartActivity"
             android:windowSoftInputMode="stateAlwaysHidden">
@@ -23,8 +22,12 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".RegisterActivity_Mentee"
+            android:parentActivityName=".OptionPage"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
             android:name=".RegisterActivity"
-            android:parentActivityName=".StartActivity"
+            android:parentActivityName=".OptionPage"
             android:windowSoftInputMode="stateAlwaysHidden" />
         <activity android:name=".MainActivity" />
         <activity
@@ -58,5 +61,6 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
 </manifest>

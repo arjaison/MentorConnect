@@ -11,14 +11,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/toolbar"
-        android:layout_margin="@dimen/margin_20_dp"
+        android:layout_marginStart="@dimen/margin_20_dp"
+        android:layout_marginLeft="@dimen/margin_20_dp"
+        android:layout_marginTop="@dimen/margin_20_dp"
+        android:layout_marginEnd="@dimen/margin_20_dp"
+        android:layout_marginRight="@dimen/margin_20_dp"
         android:gravity="center_horizontal"
         android:orientation="vertical"
         android:padding="16dp">
 
         <ImageView
             android:layout_width="wrap_content"
-            android:layout_height="200dp"
+            android:layout_height="179dp"
             android:layout_gravity="left"
             android:background="#272232"
             android:scaleType="fitStart"
@@ -61,20 +65,26 @@
 
         <!-- app:met_floatingLabel="normal" -->
 
-        <EditText
-            android:id="@+id/password"
+        <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:background="@drawable/edittext_bg"
-            android:hint="Password"
-            android:inputType="textPassword" />
+            app:passwordToggleEnabled="true">
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edittext_bg"
+                android:hint="Password"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>
         <!--  android:met_floatingLabel="normal"  -->
 
         <Button
             android:id="@+id/btn_register"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:layout_gravity="left"
             android:layout_marginTop="20dp"
             android:background="@drawable/button_bg"
@@ -93,6 +103,7 @@
 
 
     </LinearLayout>
+
 
     <include
         android:id="@+id/toolbar"
