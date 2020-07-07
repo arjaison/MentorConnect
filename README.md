@@ -29,8 +29,10 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 
 <div align="left">
     <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" alt="Modes" width="400px" style="vertical-align:middle;margin:0px 50px"</img>
+    Mode Selection
     <div align="right">
     <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px" style="vertical-align:middle;margin:0px 50px"</img>
+     Mentor Registration
     </div>
 </div>
 
