@@ -8,7 +8,7 @@
 
 ## Description
 Universities implement a Mentor-Mentee system inorder to improve the performance of the students. It also allows the students to approach their respective mentors whenever they require professional and emotional guidance.
-Often students feel shy to approach for help and refrain from doing so. To overcome this, we propose a communication application between the mentor and mentee, which makes the student anonymous to the teacher. We also instill an emotion detection feature for the mentor to know the mental state of their mentees.This application was created as part of the Software Engineering Courseware offered at SASTRA Deemed to be University.
+Often students feel shy to approach for help and refrain from doing so. To overcome this, we propose a communication application between the mentor and mentee, which makes the student anonymous to the teacher. We also instill an emotion detection feature for the mentor to know the mental state of their mentees.This application was created as part of the Software Engineering Courseware offered by SASTRA Deemed to be University.
 
 ## Objective
 * Close the communication gap between the mentor and mentee.
@@ -25,3 +25,20 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 * Emoji support for displaying the resulting emotion in a simplified manner.
 
 ## Screenshots of the application
+
+![Mode Selection](https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR)
+
+
+![Mentor Registration](https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt)
+
+
+![Mentee Registration](https://drive.google.com/uc?export=view&id=19QmueBPgcYJk7nb9ANM9N6TLCewCOnOW)
+
+
+![Mentor chatting with an Anonymous Mentee](https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp)
+
+
+![Notification Support](https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL)
+
+
+![Emoji support for displaying emotional state of Mentee](https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL)
