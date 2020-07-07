@@ -20,7 +20,7 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 * Makes use of Firebase Real-time database for authentication and storage.
 * Uses SHA-256 hash algorithm to anonimize the usernames of mentors for mainatining secrecy.
 * Restricts the students from chatting with anyother faculty except their respective mentors to prevent misuse of the service.
-
+* Notification support.
 * Allows mentors to analyse the emotional state of mentees by making use of Parallel Dots Emotion Detection API.
 * Emoji support for displaying the resulting emotion in a simplified manner.
 
@@ -42,9 +42,9 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 </div>
 </div>
 
-<div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px" style="vertical-align:middle;margin:0px 50px"</img> 
+<div align="left">
+    <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px" style="vertical-align:middle;margin:0px 50px" style="vertical-align:middle;margin:0px 50px"</img> 
 </div>
-<div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL" width="400px" style="vertical-align:middle;margin:0px 50px"</img> 
+<div align="right">
+    <img src="https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL" width="400px" style="vertical-align:middle;margin:0px 50px" style="vertical-align:middle;margin:0px 50px"</img> 
 </div>
