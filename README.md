@@ -40,7 +40,7 @@ Often students feel shy to approach for help and refrain from doing so. To overc
     <img src="https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp" width="400px"</img> 
 </div>
 <div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMI" width="400px"</img> 
+    <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px"</img> 
 </div>
 <div align="center">
     <img src="https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL" width="400px"</img> 
