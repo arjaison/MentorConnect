@@ -35,7 +35,7 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 <div align="right">
     <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px" </img>
      Mentor Registration
-    </div>
+</div>
 
 
 <div align="left">
