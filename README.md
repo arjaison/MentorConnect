@@ -26,15 +26,16 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 
 ## Screenshots of the application
 
-
+   Mode Selection
 <div align="left">
     <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px" </img>
-    Mode Selection
+ 
     
 </div>
 <div align="right">
+    Mentor Registration
     <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px" </img>
-     Mentor Registration
+     
 </div>
 
 
