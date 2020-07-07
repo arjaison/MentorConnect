@@ -26,12 +26,12 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 
 ## Screenshots of the application
 
-### Mode Selection
+### Mode Selection:
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px" </img>
 </div>
 
-### Mentor Registration
+### Mentor Registration:
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1-BheGMJOjsjPdOyni2FrL_oPIM2vYr9K" width="400px" </img>
 </div>
@@ -41,17 +41,17 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 <img src="https://drive.google.com/uc?export=view&id=1cDmLSWoNY7-RGrnNmmcLRMWfn9sCDO3r" width="400px" </img> 
 </div>
 
-### Mentee conversing with an Anonymous Mentee
+### Mentee conversing with an Anonymous Mentee:
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp" width="400px" </img> 
 </div>
 
-### Notification support
+### Notification support:
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px" </img>
 </div>
 
-### Emoji displaying the analysed mental state of the Mentee
+### Emoji displaying the analysed mental state of the Mentee:
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL" width="400px" </img> 
 </div>
