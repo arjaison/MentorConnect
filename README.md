@@ -30,20 +30,22 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 <div align="left">
     <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px" </img>
     Mode Selection
-    <div align="right">
+    
+</div>
+<div align="right">
     <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px" </img>
      Mentor Registration
     </div>
-</div>
 
 
 <div align="left">
     Mentee Registration
     <img src="https://drive.google.com/uc?export=view&id=19QmueBPgcYJk7nb9ANM9N6TLCewCOnOW" width="400px"</img> 
+
+</div>
 <div align="right">
     Mentee conversing with an Anonymous Mentee
     <img src="https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp" width="400px" </img> 
-</div>
 </div>
 
 <div align="left">
