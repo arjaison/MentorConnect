@@ -26,34 +26,36 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 
 ## Screenshots of the application
 
-   Mode Selection
+* Mode Selection
 <div align="left">
     <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px" </img>
  
     
 </div>
+* Mentor Registration
 <div align="right">
-    Mentor Registration
+    
     <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px" </img>
      
 </div>
 
-
+*Mentee Registration
 <div align="left">
-    Mentee Registration
-    <img src="https://drive.google.com/uc?export=view&id=19QmueBPgcYJk7nb9ANM9N6TLCewCOnOW" width="400px"</img> 
+    
+   <img src="https://drive.google.com/uc?export=view&id=19QmueBPgcYJk7nb9ANM9N6TLCewCOnOW" width="400px"</img> 
 
 </div>
+* Mentee conversing with an Anonymous Mentee
 <div align="right">
-    Mentee conversing with an Anonymous Mentee
-    <img src="https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp" width="400px" </img> 
+   
+   <img src="https://drive.google.com/uc?export=view&id=1cqgx1o9nvQA8k8bxbStHU-Spw1NhkXkp" width="400px" </img> 
 </div>
-
+* Notification support
 <div align="left">
-    Notification support
-    <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px"</img>
+    
+   <img src="https://drive.google.com/uc?export=view&id=1UxzS6gnv1fRt_WtM0qLUC9wh9ZnrmxMl" width="400px"</img>
 </div>
+* Emoji displaying the analysed mental state of the Mentee
 <div align="right">
-    Emoji displaying the analysed mental state of the Mentee
     <img src="https://drive.google.com/uc?export=view&id=1hhgWToJoerZ7ycNzq96cwZVFN-At-lyL" width="400px"</img> 
 </div>
