@@ -27,8 +27,10 @@ Often students feel shy to approach for help and refrain from doing so. To overc
 ## Screenshots of the application
 
 
-    <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px">
-    <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px"> 
+<div align="left">
+    <img src="https://drive.google.com/uc?export=view&id=1eX1jv1n83dOVS4Uy6HAfciu1x5uSbdKR" width="400px"</img>
+    <img src="https://drive.google.com/uc?export=view&id=1u8Bb8v-u6xnVKUR5wSDl2nFCvX0g03Zt" width="400px"</img>
+</div>
 
 
 <div align="left">
